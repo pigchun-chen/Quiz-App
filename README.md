@@ -1,6 +1,6 @@
-# second_project
+# QuizApp-project
 
-A new Flutter project.
+Developed a Quiz application compatible with both Android and iOS devices.
 
 ## Getting Started
 
